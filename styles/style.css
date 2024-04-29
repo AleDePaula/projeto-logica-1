@@ -56,10 +56,6 @@ button:hover {
 button:active {
         background: #144E75;
 }
-button:disabled{
-    background: grey;
-}
-
 #btn-limpa.off{
     display: none;
 }
